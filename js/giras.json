@@ -1,0 +1,15 @@
+[
+  { "data": "20/01", "celebracao": "São Sebastião - Oxossi - Macaia", "cores-velas": ["img/verde.png","img/verde-preta.png"] },
+  { "data": "02/02", "celebracao": "Nossa Senhora dos Navegantes - Iemanjá - Marujos", "cores-velas": ["img/azul-claro.png"] },
+  { "data": "23/04", "celebracao": "São Jorge - Ogum", "cores-velas": ["img/vermelha.png"] },
+  { "data": "13/05", "celebracao": "Pretos Velhos - Todas as linhas", "cores-velas": ["img/branca.png","img/preta-branca.png"] },
+  { "data": "24/05", "celebracao": "Santa Sara de Kali - Povo Cigano", "cores-velas": ["img/vermelha.png","img/roxa.png","img/verde.png","img/amarela.png","img/rosa.png"] },
+  { "data": "13/06", "celebracao": "Santo Antônio - Exus - Pombogiras - Pretos Velhos", "cores-velas": ["img/preta.png","img/vermelha-preta.png", "img/vermelha.png","img/preta-branca.png"]  },
+  { "data": "24/06", "celebracao": "São João Batista - Xangô", "cores-velas": ["img/marrom.png"] },
+  { "data": "26/07", "celebracao": "Santa Ana - Nanã", "cores-velas": ["img/roxa.png"] },
+  { "data": "16/08", "celebracao": "São Roque - Obaluayê", "cores-velas": ["img/branca.png"] },
+  { "data": "27/09", "celebracao": "São Cosme e Damião - Ibeji", "cores-velas": ["img/rosa.png", "img/rosa-azul.png"] },
+  { "data": "12/10", "celebracao": "Nossa Senhora Aparecida - Oxum", "cores-velas": ["img/azul-escuro.png"] },
+  { "data": "04/12", "celebracao": "Santa Barbara - Iansã", "cores-velas": ["img/amarela.png"] },
+  { "data": "17/12", "celebracao": "São Lázaro - Omulu - Virada de Exu", "cores-velas": ["img/preta.png","img/vermelha-preta.png","img/vermelha.png"] }
+]
