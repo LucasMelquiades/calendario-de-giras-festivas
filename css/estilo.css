@@ -100,3 +100,10 @@ footer {
 footer a {
   text-decoration: none;
 }
+
+@media screen and (max-width: 630px) {
+  body {
+    background-size: inherit;
+    background-position: left;
+  }
+}
